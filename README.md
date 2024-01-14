@@ -1,7 +1,6 @@
 
 # **프로젝트 소개**
-- 배포 링크 : https://d37w3g5qmrrpnl.cloudfront.net/
-- 서버 배포 링크 : https://farmandpeople.p-e.kr:8080/
+
 - 프로젝트 wiki 바로가기 : https://github.com/codestates-seb/seb41_main_007/wiki
 ## **👨‍🌾 LOGO**
 ![Screenshot from 2023-02-13 17-39-58](https://user-images.githubusercontent.com/93567754/218410220-0b14790a-5f77-4f9f-934d-b33a97df028c.png)
